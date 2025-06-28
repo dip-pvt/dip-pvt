@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dip-pvt
+- 👋 Hi, I’m @dip-bash
 - 👀 this is for my pvt uses
 
 
